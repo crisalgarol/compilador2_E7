@@ -26,7 +26,7 @@
 * FUNCIÓN DESPLIEGA *despliega()  
 * OPERACIONES LOGICAS 
 	
-	1. >
+	1. \>
 	2. <
 	3. &&
 	4. ||
